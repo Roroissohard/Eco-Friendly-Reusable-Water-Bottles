@@ -1,0 +1,36 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  #hero {
+    background-image: url('../Firefly\ eco\ friendly\ water\ bottles\ 56812.jpg'); /* You can pick any image from the provided sources */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+  }
+  
+  #background {
+    background-image: linear-gradient(to right, #007bff, #00c851);
+  }
+  
+  footer {
+    font-size: 14px;
+  }
+  
+  footer i {
+    font-size: 20px;
+  }
+  
+  .card .material-icons {
+    color: #b6b6b6;
+  }
+  
+  .card-title {
+    font-weight: bold;
+  }
+  .text {
+    color: #ffffff;
+  }
+  
