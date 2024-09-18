@@ -5,7 +5,7 @@ body, html {
   }
   
   #hero {
-    background-image: url('../Firefly\ eco\ friendly\ water\ bottles\ 56812.jpg'); /* You can pick any image from the provided sources */
+    background-image: url('Firefly\ eco\ friendly\ water\ bottles\ 56812.jpg');
     background-size: cover;
     background-position: center;
     color: #fff;
